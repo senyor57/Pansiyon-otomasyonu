@@ -1,0 +1,15 @@
+C:\Users\ozans\source\repos\Pansiyon otomasyonu\Pansiyon otomasyonu\bin\Debug\Pansiyon otomasyonu.exe.config
+C:\Users\ozans\source\repos\Pansiyon otomasyonu\Pansiyon otomasyonu\bin\Debug\Pansiyon otomasyonu.exe
+C:\Users\ozans\source\repos\Pansiyon otomasyonu\Pansiyon otomasyonu\bin\Debug\Pansiyon otomasyonu.pdb
+C:\Users\ozans\source\repos\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon otomasyonu.csproj.AssemblyReference.cache
+C:\Users\ozans\source\repos\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozans\source\repos\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.Properties.Resources.resources
+C:\Users\ozans\source\repos\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon otomasyonu.csproj.GenerateResource.cache
+C:\Users\ozans\source\repos\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\ozans\source\repos\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon otomasyonu.exe
+C:\Users\ozans\source\repos\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon otomasyonu.pdb
+C:\Users\ozans\source\repos\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.MusteriEkle.resources
+C:\Users\ozans\source\repos\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.FrmAnasayfa.resources
+C:\Users\ozans\source\repos\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.FrmAdminGiris.resources
+C:\Users\ozans\source\repos\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.Odalar.resources
+C:\Users\ozans\source\repos\Pansiyon otomasyonu\Pansiyon otomasyonu\obj\Debug\Pansiyon_otomasyonu.FrmMusteriler.resources
